@@ -4,8 +4,8 @@ var isShopping = false;
 if (document.URL.endsWith("shop.html")) {isShopping = true};
 
 var items = [
-    ["Empty", "Empty", "Empty"],
-    ["Empty", "Empty", "Empty"],
+    ["Straw Fedora(1)", "Nightmare M. Glass(1)", "Parasol(2)"],
+    ["Teeny Angel(1)", "Soda Jetpack(2)", "Hose(7)"],
     ["Empty", "Empty", "Empty"]
 ]
 
